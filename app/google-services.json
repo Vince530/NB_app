@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "45149145757",
+    "project_id": "socialapp-42812",
+    "storage_bucket": "socialapp-42812.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:45149145757:android:8ea58e86961dbbea66a274",
+        "android_client_info": {
+          "package_name": "com.example.nearbychat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0dTZNT9J7IbZTvhXKJ0R_VC0RJprSuX8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
